@@ -1,8 +1,7 @@
-# LP2
+# LP2 — Editor Gráfico em Java
+
 ## Nome:  Pedro Henrique Yugue da Fonseca
 ## Matricula:  20172059911
-
-# LP2 — Editor Gráfico em Java
 
 Projeto acadêmico desenvolvido em Java para a disciplina de LP2, com foco na criação e manipulação de figuras geométricas em uma interface gráfica.
 
